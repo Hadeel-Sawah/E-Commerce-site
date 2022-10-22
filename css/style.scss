@@ -409,7 +409,6 @@ header{
         }
     }
 }
-
 // part review
 .review,#review{
      height: 90vh;
@@ -787,36 +786,8 @@ header{
 			}
 		}
 	}
-    
-	
 }
 @media (max-width: 600px) {
-	// #review,.review {
-	// 	.heading {
-	// 		padding-top: 5rem;
-	// 	}
-	// 	.box-container {
-	// 		.review-slider{
-	// 			.box-item {
-	// 				position: relative;
-	// 				height: 50vh;
-    //                 width: auto;
-    //                 left: 50%;
-    //                 transform: translateX(-50%);
-					
-	// 				.comment {
-	// 					border-radius: 1rem;
-	// 					text-align: center;
-	// 					width: 35rem;
-	// 					h3 {
-	// 						text-align: center;
-	// 						margin-top: -2rem;
-	// 					}
-	// 				}
-	// 			}
-	// 		}
-	// 	}
-	// }
     #offer,.offer{
         .images{
             display: flex;
